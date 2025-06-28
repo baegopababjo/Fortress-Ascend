@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 90b47f987b362fa4899d07e95944face
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - footstepSound: {instanceID: 0}
+  - attackSound: {instanceID: 0}
+  - ReleaseStringSound: {fileID: 8300000, guid: ee833d5407efca04a9b10a8700e6b35e, type: 3}
+  - SwordSound: {fileID: 8300000, guid: cc6699269b4c1d44ea1e860518b9bb73, type: 3}
+  - hitSound: {fileID: 8300000, guid: 711b998429a93428cbd3fbd1a6d57948, type: 3}
+  - dieSound: {fileID: 8300000, guid: 7a39ba789208642ea9fda609aea157b6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

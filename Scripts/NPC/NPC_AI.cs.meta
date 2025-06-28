@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86c04e0b8677ad745a9361ae0517d225
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DamageSfx: {fileID: 8300000, guid: 711b998429a93428cbd3fbd1a6d57948, type: 3}
+  - DieSfx: {fileID: 8300000, guid: 7a39ba789208642ea9fda609aea157b6, type: 3}
+  - FallSfx: {fileID: 8300000, guid: 2bfc5ac48dbe346c79df1e48f3c27835, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

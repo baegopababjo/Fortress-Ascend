@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0093b05c95ce9074f99a3f850704fff1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameStatsData: {instanceID: 0}
+  - RubblePrefab: {fileID: 4727087043892747747, guid: 64b4d05ac17534c4e8edfe068f85ec13, type: 3}
+  - ExplodeEff: {fileID: 1121192042590650, guid: e1b08032bec16ba4eb1ae23cbd572664, type: 3}
+  - DestroySfx: {fileID: 8300000, guid: 1fd31868d68903d4f9e2c4a3b7ef98f3, type: 3}
+  - DamageSfx: {fileID: 8300000, guid: 4827fbf98a5198d45a996fbc8ff7bbbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
